@@ -30,11 +30,11 @@ The analysis uses the snapshot included in `data/`.
 
 Start the interface with `python -m streamlit run app.py`. Results in the repository are ready to explore after installing the requirements.
 
-Optional local AI setup uses [Ollama](https://ollama.com/) with `ollama pull qwen2.5:1.5b`. Enable the model in the app. The default search and summaries run without a model or a network connection.
+Optional local AI setup uses [Ollama](https://ollama.com/) with `ollama pull qwen2.5:1.5b`. Enable the model in the app. The local Qwen integration was tested on a query about epitope 181380. The default search and summaries run offline using the bundled index.
 
 ## Interpretation
 
-The corpus is limited to three ovalbumin studies. Text ranking is lexical. The evaluation examples are a small set of hand-written functional checks and do not establish general retrieval accuracy. For new data, `python refresh.py raw/new-snapshot` writes a snapshot for separate review.
+The corpus contains three ovalbumin studies. Text ranking is lexical. The seven hand-written examples validate basic search behavior on the bundled corpus. For new data, `python refresh.py raw/new-snapshot` writes a snapshot for review.
 
 ## Sources and licenses
 

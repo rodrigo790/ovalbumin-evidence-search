@@ -17,6 +17,10 @@ def use_example():
         st.session_state.question = st.session_state.example
 
 
+def clear_example():
+    st.session_state.example = None
+
+
 search = load_index()
 st.title("Ovalbumin evidence search")
 st.caption(f"Gallus gallus · UniProt P01012 · {len(search.assays):,} curated IEDB assay records")
@@ -25,6 +29,7 @@ question = st.text_input(
     placeholder="Example: What evidence exists for epitope 181380?",
     max_chars=280,
     key="question",
+    on_change=clear_example,
 )
 st.pills("Examples", ["IEDB 17678705", "Negative western blot", "LKISQAVHAAHAEIN"],
          key="example", on_change=use_example)
