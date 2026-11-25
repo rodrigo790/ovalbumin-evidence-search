@@ -1,0 +1,21 @@
+{
+  "assays.csv": {
+    "url": "https://query-api.iedb.org/bcell_search",
+    "sha256": "82ab10bf253d8edc7e3c3f43150a496603203f3a654fe469e316b1559397d40c",
+    "bytes": 95418,
+    "observed_date": "2026-11-25",
+    "note": "Parent source P01012, linear peptide, PMIDs 34818647, 17236828 and 14600204"
+  },
+  "bibliography.json": {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+    "sha256": "7fb1a2fb928a3415e32eaf4feb707051caa2dace843410fb3fea88e8cb5002e7",
+    "bytes": 680,
+    "observed_date": "2026-11-25"
+  },
+  "retrieval.json": {
+    "url": "https://query-api.iedb.org/bcell_search",
+    "sha256": "5fa44388410041f3c608f0440225469ef88cab0779bd5474a31cc72b07bb0b88",
+    "bytes": 248,
+    "observed_date": "2026-11-25"
+  }
+}

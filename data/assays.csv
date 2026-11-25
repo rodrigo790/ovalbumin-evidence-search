@@ -1,0 +1,704 @@
+bcell_id,structure_id,linear_sequence,structure_type,pubmed_id,qualitative_measure,assay_names,host_organism_name,antibody_isotype,parent_source_antigen_iri
+1411619,22373,GSIGAASMEFCF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411666,26197,IGAASMEFCFDV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411669,442,AASMEFCFDVFK,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411672,59653,SMEFCFDVFKEL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411675,11955,EFCFDVFKELKV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411678,6221,CFDVFKELKVHH,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411681,10590,DVFKELKVHHAN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411684,16364,FKELKVHHANEN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411687,13144,ELKVHHANENIF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411690,34031,KVHHANENIFYC,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411693,23978,HHANENIFYCPI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411696,3256,ANENIFYCPIAI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411699,13485,ENIFYCPIAIMS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411702,26189,IFYCPIAIMSAL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411705,73506,YCPIAIMSALAM,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411708,47867,PIAIMSALAMVY,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411711,2026,AIMSALAMVYLG,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411714,42519,MSALAMVYLGAK,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411717,2435,ALAMVYLGAKDS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411720,3210,AMVYLGAKDSTR,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411723,72077,VYLGAKDSTRTQ,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411726,36059,LGAKDSTRTQIN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411729,2164,AKDSTRTQINKV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411732,10255,DSTRTQINKVVR,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411744,34248,KVVRFDKLPGFG,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411747,70713,VRFDKLPGFGDS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411750,15415,FDKLPGFGDSIE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411753,32075,KLPGFGDSIEAQ,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411756,47645,PGFGDSIEAQCG,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411759,15966,FGDSIEAQCGTS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411762,10139,DSIEAQCGTSVN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411765,25733,IEAQCGTSVNVH,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411768,3945,AQCGTSVNVHSS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411772,6359,CGTSVNVHSSLR,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411775,66494,TSVNVHSSLRDI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411778,70214,VNVHSSLRDILN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411780,68887,VHSSLRDILNQI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411783,61187,SSLRDILNQITK,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411786,39050,LRDILNQITKPN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411789,8708,DILNQITKPNDV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411792,38320,LNQITKPNDVYS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411795,51141,QITKPNDVYSFS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411798,64637,TKPNDVYSFSLA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411801,48623,PNDVYSFSLASR,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411804,10795,DVYSFSLASRLY,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411808,75736,YSFSLASRLYAE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411811,17764,FSLASRLYAEER,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411814,34970,LASRLYAEERYP,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411817,60735,SRLYAEERYPIL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411819,40706,LYAEERYPILPE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411822,891,AEERYPILPEYL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411825,14102,ERYPILPEYLQC,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411828,75328,YPILPEYLQCVK,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411831,27242,ILPEYLQCVKEL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411834,47472,PEYLQCVKELYR,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411837,74874,YLQCVKELYRGG,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411840,50423,QCVKELYRGGLE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411843,69212,VKELYRGGLEPI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411846,13340,ELYRGGLEPINF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411850,75607,YRGGLEPINFQT,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411853,19907,GGLEPINFQTAA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411855,35648,LEPINFQTAADQ,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411858,47934,PINFQTAADQAR,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411861,43907,NFQTAADQAREL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411864,52460,QTAADQARELIN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411867,95,AADQARELINSW,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411870,9828,DQARELINSWVE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411873,4137,ARELINSWVESQ,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411876,13099,ELINSWVESQTN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411879,27742,INSWVESQTNGI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411882,62501,SWVESQTNGIIR,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411885,68353,VESQTNGIIRNV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411888,60568,SQTNGIIRNVLQ,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411891,65323,TNGIIRNVLQPS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411894,20306,GIIRNVLQPSSV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411897,28348,IRNVLQPSSVDS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411900,46425,NVLQPSSVDSQT,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411903,38954,LQPSSVDSQTAM,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411906,49521,PSSVDSQTAMVL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411909,62088,SVDSQTAMVLVN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411912,10217,DSQTAMVLVNAI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411915,52469,QTAMVLVNAIVF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411918,3205,AMVLVNAIVFKG,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411921,69836,VLVNAIVFKGLW,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411924,70047,VNAIVFKGLWEK,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411927,2119,AIVFKGLWEKAF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411930,68504,VFKGLWEKAFKD,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411933,31011,KGLWEKAFKDED,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411936,40660,LWEKAFKDEDTQ,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411939,12624,EKAFKDEDTQAM,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411942,1328,AFKDEDTQAMPF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411945,30134,KDEDTQAMPFRV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411948,11454,EDTQAMPFRVTE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411951,65823,TQAMPFRVTEQE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411954,3168,AMPFRVTEQESK,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411957,47562,PFRVTEQESKPV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411960,56426,RVTEQESKPVQM,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411963,63502,TEQESKPVQMMY,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411966,50695,QESKPVQMMYQI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411969,58924,SKPVQMMYQIGL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411972,49944,PVQMMYQIGLFR,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411975,51626,QMMYQIGLFRVA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411978,43077,MYQIGLFRVASM,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411981,51071,QIGLFRVASMAS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411984,20866,GLFRVASMASEK,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411987,17651,FRVASMASEKMK,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411990,67752,VASMASEKMKIL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411993,59634,SMASEKMKILEL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411996,4384,ASEKMKILELPF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1411999,12819,EKMKILELPFAS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412002,41833,MKILELPFASGT,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412005,27024,ILELPFASGTMS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412008,13204,ELPFASGTMSML,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412011,47482,PFASGTMSMLVL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412014,4436,ASGTMSMLVLLP,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412017,22762,GTMSMLVLLPDE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412020,42609,MSMLVLLPDEVS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412023,42085,MLVLLPDEVSGL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412026,69620,VLLPDEVSGLEQ,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412029,38430,LPDEVSGLEQLE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412032,8209,DEVSGLEQLESI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412035,70962,VSGLEQLESIIN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412038,20826,GLEQLESIINFE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412041,13868,EQLESIINFEKL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412044,35695,LESIINFEKLTE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412047,58561,SIINFEKLTEWT,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412050,27631,INFEKLTEWTSS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412053,15577,FEKLTEWTSSNV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412056,32191,KLTEWTSSNVME,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412059,63592,TEWTSSNVMEER,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412062,73158,WTSSNVMEERKI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412066,61255,SSNVMEERKIKV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412077,31309,KIKVYLPRMKME,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412080,34270,KVYLPRMKMEEK,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412083,74869,YLPRMKMEEKYN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412086,49221,PRMKMEEKYNLT,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412089,41863,MKMEEKYNLTSV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412092,41352,MEEKYNLTSVLM,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412095,12916,EKYNLTSVLMAM,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412098,75193,YNLTSVLMAMGI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412101,40191,LTSVLMAMGITD,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412105,62220,SVLMAMGITDVF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412108,37992,LMAMGITDVFSS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412111,3095,AMGITDVFSSSA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412114,20454,GITDVFSSSANL,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412116,63253,TDVFSSSANLSG,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412119,68571,VFSSSANLSGIS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412122,61328,SSSANLSGISSA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412125,56913,SANLSGISSAES,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412128,44868,NLSGISSAESLK,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412131,58094,SGISSAESLKIS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412134,28708,ISSAESLKISQA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412137,56761,SAESLKISQAVH,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412140,14196,ESLKISQAVHAA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412144,36899,LKISQAVHAAHA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412147,28671,ISQAVHAAHAEI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412149,50384,QAVHAAHAEINE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412152,68828,VHAAHAEINEAG,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412155,193,AAHAEINEAGRE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412158,23525,HAEINEAGREVV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412161,12527,EINEAGREVVGS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412164,43554,NEAGREVVGSAE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412167,1663,AGREVVGSAEAG,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412170,53674,REVVGSAEAGVD,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412173,71676,VVGSAEAGVDAA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412176,22267,GSAEAGVDAASV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412179,824,AEAGVDAASVSE,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412182,1713,AGVDAASVSEEF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412185,67894,VDAASVSEEFRA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412188,451,AASVSEEFRADH,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412191,62323,SVSEEFRADHPF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412194,57385,SEEFRADHPFLF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412197,12064,EFRADHPFLFCI,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412200,53081,RADHPFLFCIKH,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412203,8559,DHPFLFCIKHIA,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412206,47515,PFLFCIKHIATN,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412209,35804,LFCIKHIATNAV,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412212,6423,CIKHIATNAVLF,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412215,31114,KHIATNAVLFFG,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412218,25450,IATNAVLFFGRC,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412222,65291,TNAVLFFGRCVS,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412225,5430,AVLFFGRCVSP,Linear peptide,17236828,Negative,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412228,27678,INKVVRFD,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412237,70213,VNVHSSLR,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412238,60734,SRLYAE,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412239,19906,GGLEPINFQT,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412240,14009,ERKIKV,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412241,20453,GITDVF,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412242,28669,ISQAVHAAHA,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412243,5429,AVLFFGRCVS,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412246,34246,KVVRFD,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412248,31308,KIKVYL,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412359,34245,KVVR,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412362,34265,KVYL,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412363,63252,TDVFSS,Linear peptide,17236828,Positive,qualitative binding|western blot,Mus musculus BALB/c,IgE,UNIPROT:P01012
+1412681,22373,GSIGAASMEFCF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412682,26197,IGAASMEFCFDV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412683,442,AASMEFCFDVFK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412684,59653,SMEFCFDVFKEL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412685,11955,EFCFDVFKELKV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412686,6221,CFDVFKELKVHH,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412687,10590,DVFKELKVHHAN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412688,16364,FKELKVHHANEN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412689,13144,ELKVHHANENIF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412690,34031,KVHHANENIFYC,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412691,23978,HHANENIFYCPI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412692,3256,ANENIFYCPIAI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412693,13485,ENIFYCPIAIMS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412694,26189,IFYCPIAIMSAL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412695,73506,YCPIAIMSALAM,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412696,47867,PIAIMSALAMVY,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412697,2026,AIMSALAMVYLG,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412698,42519,MSALAMVYLGAK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412699,2435,ALAMVYLGAKDS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412700,34879,LAMVYLGAKDST,Linear peptide,14600204,Positive,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412701,72077,VYLGAKDSTRTQ,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412702,36059,LGAKDSTRTQIN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412703,2164,AKDSTRTQINKV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412704,10255,DSTRTQINKVVR,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412705,66110,TRTQINKVVRFD,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412706,65875,TQINKVVRFDKL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412707,27679,INKVVRFDKLPG,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412708,34248,KVVRFDKLPGFG,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412709,70713,VRFDKLPGFGDS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412710,15415,FDKLPGFGDSIE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412711,32075,KLPGFGDSIEAQ,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412712,47645,PGFGDSIEAQCG,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412713,15966,FGDSIEAQCGTS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412714,10139,DSIEAQCGTSVN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412715,25733,IEAQCGTSVNVH,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412716,3945,AQCGTSVNVHSS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412717,6359,CGTSVNVHSSLR,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412718,66494,TSVNVHSSLRDI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412719,70214,VNVHSSLRDILN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412720,68887,VHSSLRDILNQI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412721,61187,SSLRDILNQITK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412722,39050,LRDILNQITKPN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412723,8708,DILNQITKPNDV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412724,38320,LNQITKPNDVYS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412725,51141,QITKPNDVYSFS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412726,10794,DVYSFSLA,Linear peptide,14600204,Positive,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412727,75736,YSFSLASRLYAE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412728,17764,FSLASRLYAEER,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412729,34970,LASRLYAEERYP,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412730,60735,SRLYAEERYPIL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412731,40706,LYAEERYPILPE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412732,891,AEERYPILPEYL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412733,14102,ERYPILPEYLQC,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412734,75328,YPILPEYLQCVK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412735,27242,ILPEYLQCVKEL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412736,47472,PEYLQCVKELYR,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412737,74874,YLQCVKELYRGG,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412738,50423,QCVKELYRGGLE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412739,69212,VKELYRGGLEPI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412740,13340,ELYRGGLEPINF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412741,75607,YRGGLEPINFQT,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412742,19907,GGLEPINFQTAA,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412743,35648,LEPINFQTAADQ,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412744,47934,PINFQTAADQAR,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412745,43907,NFQTAADQAREL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412746,52460,QTAADQARELIN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412747,95,AADQARELINSW,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412748,9828,DQARELINSWVE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412749,4137,ARELINSWVESQ,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412750,13099,ELINSWVESQTN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412751,27742,INSWVESQTNGI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412752,62501,SWVESQTNGIIR,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412753,68353,VESQTNGIIRNV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412754,60568,SQTNGIIRNVLQ,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412755,65323,TNGIIRNVLQPS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412756,20306,GIIRNVLQPSSV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412757,28348,IRNVLQPSSVDS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412758,46425,NVLQPSSVDSQT,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412759,38954,LQPSSVDSQTAM,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412760,49521,PSSVDSQTAMVL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412761,62088,SVDSQTAMVLVN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412762,10217,DSQTAMVLVNAI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412763,52469,QTAMVLVNAIVF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412764,3205,AMVLVNAIVFKG,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412765,69836,VLVNAIVFKGLW,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412766,70047,VNAIVFKGLWEK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412767,2119,AIVFKGLWEKAF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412768,68504,VFKGLWEKAFKD,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412769,31011,KGLWEKAFKDED,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412770,40660,LWEKAFKDEDTQ,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412771,12624,EKAFKDEDTQAM,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412772,1328,AFKDEDTQAMPF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412773,11453,EDTQAMPFRV,Linear peptide,14600204,Positive,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412774,65823,TQAMPFRVTEQE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412775,3168,AMPFRVTEQESK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412776,47562,PFRVTEQESKPV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412777,56426,RVTEQESKPVQM,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412778,63502,TEQESKPVQMMY,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412779,50695,QESKPVQMMYQI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412780,58924,SKPVQMMYQIGL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412781,49944,PVQMMYQIGLFR,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412782,51626,QMMYQIGLFRVA,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412783,43077,MYQIGLFRVASM,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412784,51071,QIGLFRVASMAS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412785,20866,GLFRVASMASEK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412786,17651,FRVASMASEKMK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412787,67752,VASMASEKMKIL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412788,59634,SMASEKMKILEL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412789,4384,ASEKMKILELPF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412790,12819,EKMKILELPFAS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412791,41833,MKILELPFASGT,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412792,27024,ILELPFASGTMS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412793,13204,ELPFASGTMSML,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412794,47482,PFASGTMSMLVL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412795,4436,ASGTMSMLVLLP,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412796,69619,VLLPDE,Linear peptide,14600204,Positive,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412797,38430,LPDEVSGLEQLE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412798,8209,DEVSGLEQLESI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412799,70962,VSGLEQLESIIN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412800,20825,GLEQLESIIN,Linear peptide,14600204,Positive,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412803,13868,EQLESIINFEKL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412804,35695,LESIINFEKLTE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412805,58561,SIINFEKLTEWT,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412806,27631,INFEKLTEWTSS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412807,15577,FEKLTEWTSSNV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412808,32191,KLTEWTSSNVME,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412809,63592,TEWTSSNVMEER,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412810,73158,WTSSNVMEERKI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412811,61255,SSNVMEERKIKV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412812,46430,NVMEERKIKVYL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412813,41357,MEERKIKVYLPR,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412814,14010,ERKIKVYLPRMK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412815,31309,KIKVYLPRMKME,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412816,34270,KVYLPRMKMEEK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412817,74869,YLPRMKMEEKYN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412818,49221,PRMKMEEKYNLT,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412819,41863,MKMEEKYNLTSV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412820,41352,MEEKYNLTSVLM,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412821,12916,EKYNLTSVLMAM,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412822,75193,YNLTSVLMAMGI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412823,40191,LTSVLMAMGITD,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412824,62220,SVLMAMGITDVF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412825,37992,LMAMGITDVFSS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412826,3095,AMGITDVFSSSA,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412827,20454,GITDVFSSSANL,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412828,63253,TDVFSSSANLSG,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412829,68571,VFSSSANLSGIS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412830,61328,SSSANLSGISSA,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412831,56913,SANLSGISSAES,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412832,44868,NLSGISSAESLK,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412836,58094,SGISSAESLKIS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412837,28708,ISSAESLKISQA,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412838,56761,SAESLKISQAVH,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412839,14196,ESLKISQAVHAA,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412840,36899,LKISQAVHAAHA,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412841,28671,ISQAVHAAHAEI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412842,50384,QAVHAAHAEINE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412843,68828,VHAAHAEINEAG,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412844,193,AAHAEINEAGRE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412845,23525,HAEINEAGREVV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412846,12527,EINEAGREVVGS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412847,43554,NEAGREVVGSAE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412848,1663,AGREVVGSAEAG,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412849,53674,REVVGSAEAGVD,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412850,71676,VVGSAEAGVDAA,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412851,22267,GSAEAGVDAASV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412852,824,AEAGVDAASVSE,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412853,1713,AGVDAASVSEEF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412854,67894,VDAASVSEEFRA,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412855,451,AASVSEEFRADH,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412856,62323,SVSEEFRADHPF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412857,57385,SEEFRADHPFLF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412858,12064,EFRADHPFLFCI,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412859,53081,RADHPFLFCIKH,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412860,8559,DHPFLFCIKHIA,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412861,47515,PFLFCIKHIATN,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412862,35804,LFCIKHIATNAV,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412863,6423,CIKHIATNAVLF,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412864,31114,KHIATNAVLFFG,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412865,25450,IATNAVLFFGRC,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412866,65291,TNAVLFFGRCVS,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+1412900,5430,AVLFFGRCVSP,Linear peptide,14600204,Negative,qualitative binding|western blot,Homo sapiens (human),IgE,UNIPROT:P01012
+17678427,1796808,MGSIGAASMEFCFDV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678428,1796808,MGSIGAASMEFCFDV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678429,1796808,MGSIGAASMEFCFDV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678430,1796808,MGSIGAASMEFCFDV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678431,1796808,MGSIGAASMEFCFDV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678432,1796808,MGSIGAASMEFCFDV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678433,1764962,IGAASMEFCFDVFKE,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678434,1764962,IGAASMEFCFDVFKE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678435,181279,ASMEFCFDVFKELKV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678436,181279,ASMEFCFDVFKELKV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678437,181279,ASMEFCFDVFKELKV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678438,181279,ASMEFCFDVFKELKV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678439,181279,ASMEFCFDVFKELKV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678440,181279,ASMEFCFDVFKELKV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678441,1739048,EFCFDVFKELKVHHA,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678442,1739048,EFCFDVFKELKVHHA,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678443,289542,FDVFKELKVHHANEN,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678444,289542,FDVFKELKVHHANEN,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678445,1747895,FKELKVHHANENIFY,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678446,1747895,FKELKVHHANENIFY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678447,1747895,FKELKVHHANENIFY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678448,1747895,FKELKVHHANENIFY,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678449,1747895,FKELKVHHANENIFY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678450,1747895,FKELKVHHANENIFY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678451,1788129,LKVHHANENIFYCPI,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678452,1788129,LKVHHANENIFYCPI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678453,181335,HHANENIFYCPIAIM,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678454,181335,HHANENIFYCPIAIM,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678455,1799961,NENIFYCPIAIMSAL,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678456,1799961,NENIFYCPIAIMSAL,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678457,1764954,IFYCPIAIMSALAMV,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678458,1764954,IFYCPIAIMSALAMV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678459,1727210,CPIAIMSALAMVYLG,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678460,1727210,CPIAIMSALAMVYLG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678461,1720256,AIMSALAMVYLGAKD,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678462,1720256,AIMSALAMVYLGAKD,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678463,181453,SALAMVYLGAKDSTR,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678464,181453,SALAMVYLGAKDSTR,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678465,138758,AMVYLGAKDSTRTQI,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678466,138758,AMVYLGAKDSTRTQI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678467,1849908,YLGAKDSTRTQINKV,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678468,1849908,YLGAKDSTRTQINKV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678469,1720595,AKDSTRTQINKVVRF,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678470,1720595,AKDSTRTQINKVVRF,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678471,1829298,STRTQINKVVRFDKL,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678472,1829298,STRTQINKVVRFDKL,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678473,181486,TQINKVVRFDKLPGF,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678474,181486,TQINKVVRFDKLPGF,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678475,1801914,NKVVRFDKLPGFGDS,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678476,1801914,NKVVRFDKLPGFGDS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678477,1844378,VRFDKLPGFGDSIEA,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678478,1844378,VRFDKLPGFGDSIEA,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678479,1731660,DKLPGFGDSIEAQCG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678480,1731660,DKLPGFGDSIEAQCG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678481,1731660,DKLPGFGDSIEAQCG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678482,1731660,DKLPGFGDSIEAQCG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678483,1731660,DKLPGFGDSIEAQCG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678484,1731660,DKLPGFGDSIEAQCG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678485,1806755,PGFGDSIEAQCGTSV,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678486,1806755,PGFGDSIEAQCGTSV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678487,181322,GDSIEAQCGTSVNVH,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678488,181322,GDSIEAQCGTSVNVH,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678489,1764065,IEAQCGTSVNVHSSL,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678490,1764065,IEAQCGTSVNVHSSL,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678491,1810122,QCGTSVNVHSSLRDI,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678492,1810122,QCGTSVNVHSSLRDI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678493,1836114,TSVNVHSSLRDILNQ,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678494,1836114,TSVNVHSSLRDILNQ,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678495,1805124,NVHSSLRDILNQITK,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678496,1805124,NVHSSLRDILNQITK,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678497,181466,SSLRDILNQITKPND,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678498,181466,SSLRDILNQITKPND,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678499,181466,SSLRDILNQITKPND,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678500,181466,SSLRDILNQITKPND,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678501,181466,SSLRDILNQITKPND,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678502,181466,SSLRDILNQITKPND,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678503,1814759,RDILNQITKPNDVYS,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678504,1814759,RDILNQITKPNDVYS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678505,1790004,LNQITKPNDVYSFSL,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678506,1790004,LNQITKPNDVYSFSL,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678507,1634598,ITKPNDVYSFSLASR,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678508,1634598,ITKPNDVYSFSLASR,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678509,1807979,PNDVYSFSLASRLYA,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678510,1807979,PNDVYSFSLASRLYA,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678511,181509,VYSFSLASRLYAEER,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678512,181509,VYSFSLASRLYAEER,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678513,1749957,FSLASRLYAEERYPI,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678514,1749957,FSLASRLYAEERYPI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678515,1724888,ASRLYAEERYPILPE,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678516,1724888,ASRLYAEERYPILPE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678517,1634894,LYAEERYPILPEYLQ,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678518,1634894,LYAEERYPILPEYLQ,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678519,1738888,EERYPILPEYLQCVK,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678520,1738888,EERYPILPEYLQCVK,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678521,181521,YPILPEYLQCVKELY,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678522,181521,YPILPEYLQCVKELY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678523,1790498,LPEYLQCVKELYRGG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678524,1790498,LPEYLQCVKELYRGG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678525,1850082,YLQCVKELYRGGLEP,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678526,1850082,YLQCVKELYRGGLEP,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678527,1850082,YLQCVKELYRGGLEP,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678528,1850082,YLQCVKELYRGGLEP,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678529,1850082,YLQCVKELYRGGLEP,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678530,1850082,YLQCVKELYRGGLEP,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678531,1727527,CVKELYRGGLEPINF,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678532,1727527,CVKELYRGGLEPINF,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678533,1634182,ELYRGGLEPINFQTA,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678534,1634182,ELYRGGLEPINFQTA,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678535,181443,RGGLEPINFQTAADQ,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678536,181443,RGGLEPINFQTAADQ,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678537,1634822,LEPINFQTAADQARE,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678538,1634822,LEPINFQTAADQARE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678539,864542,INFQTAADQARELIN,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678540,864542,INFQTAADQARELIN,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678541,1813430,QTAADQARELINSWV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678542,1813430,QTAADQARELINSWV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678543,1633655,ADQARELINSWVESQ,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678544,1633655,ADQARELINSWVESQ,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678545,181277,ARELINSWVESQTNG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678546,181277,ARELINSWVESQTNG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678547,1787098,LINSWVESQTNGIIR,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678548,1787098,LINSWVESQTNGIIR,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678549,138813,SWVESQTNGIIRNVL,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678550,138813,SWVESQTNGIIRNVL,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678551,1744516,ESQTNGIIRNVLQPS,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678552,1744516,ESQTNGIIRNVLQPS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678553,1635724,TNGIIRNVLQPSSVD,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678554,1635724,TNGIIRNVLQPSSVD,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678555,181344,IIRNVLQPSSVDSQT,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678556,181344,IIRNVLQPSSVDSQT,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678557,181344,IIRNVLQPSSVDSQT,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678558,181344,IIRNVLQPSSVDSQT,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678559,181344,IIRNVLQPSSVDSQT,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678560,181344,IIRNVLQPSSVDSQT,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678561,1635150,NVLQPSSVDSQTAMV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678562,1635150,NVLQPSSVDSQTAMV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678563,1635332,QPSSVDSQTAMVLVN,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678564,1635332,QPSSVDSQTAMVLVN,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678565,1829482,SVDSQTAMVLVNAIV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678566,1829482,SVDSQTAMVLVNAIV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678567,1827778,SQTAMVLVNAIVFKG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678568,1827778,SQTAMVLVNAIVFKG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678569,1827778,SQTAMVLVNAIVFKG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678570,1827778,SQTAMVLVNAIVFKG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678571,1827778,SQTAMVLVNAIVFKG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678572,1827778,SQTAMVLVNAIVFKG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678573,1726340,AXVLVNAIVFKGLWE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678574,1726340,AXVLVNAIVFKGLWE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678575,1795160,LVNAIVFKGLWEKAF,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678576,1795160,LVNAIVFKGLWEKAF,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678577,1795160,LVNAIVFKGLWEKAF,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678578,1795160,LVNAIVFKGLWEKAF,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678579,1795160,LVNAIVFKGLWEKAF,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678580,1795160,LVNAIVFKGLWEKAF,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678581,1720446,AIVFKGLWEKAFKDE,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678582,1720446,AIVFKGLWEKAFKDE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678583,1747922,FKGLWEKAFKDEDTQ,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678584,1747922,FKGLWEKAFKDEDTQ,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678585,1795553,LWEKAFKDEDTQAMP,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678586,1795553,LWEKAFKDEDTQAMP,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678587,1772733,KAFKDEDTQAMPFRV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678588,1772733,KAFKDEDTQAMPFRV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678589,1634658,KDEDTQAMPFRVTEQ,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678590,1634658,KDEDTQAMPFRVTEQ,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678591,1634658,KDEDTQAMPFRVTEQ,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678592,1634658,KDEDTQAMPFRVTEQ,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678593,1634658,KDEDTQAMPFRVTEQ,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678594,1634658,KDEDTQAMPFRVTEQ,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678595,1735849,DTQAMPFRVTEQESK,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678596,1735849,DTQAMPFRVTEQESK,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678597,1722080,AMPFRVTEQESKPVQ,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678598,1722080,AMPFRVTEQESKPVQ,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678599,1749744,FRVTEQESKPVQMMY,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678600,1749744,FRVTEQESKPVQMMY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678601,181478,TEQESKPVQMMYQIG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678602,181478,TEQESKPVQMMYQIG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678603,181478,TEQESKPVQMMYQIG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678604,181478,TEQESKPVQMMYQIG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678605,181478,TEQESKPVQMMYQIG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678606,181478,TEQESKPVQMMYQIG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678607,1744391,ESKPVQMMYQIGLFR,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678608,1744391,ESKPVQMMYQIGLFR,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678609,1809530,PVQMMYQIGLFRVAS,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678610,1809530,PVQMMYQIGLFRVAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678611,1797583,MMYQIGLFRVASMAS,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678612,1797583,MMYQIGLFRVASMAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678613,1797583,MMYQIGLFRVASMAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678614,1797583,MMYQIGLFRVASMAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678615,1797583,MMYQIGLFRVASMAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678616,1797583,MMYQIGLFRVASMAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678617,1811106,QIGLFRVASMASEKM,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678618,1811106,QIGLFRVASMASEKM,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678619,181379,LFRVASMASEKMKIL,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678620,181379,LFRVASMASEKMKIL,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678621,1837752,VASMASEKMKILELP,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678622,1837752,VASMASEKMKILELP,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678623,1796133,MASEKMKILELPFAS,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678624,1796133,MASEKMKILELPFAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678625,1796133,MASEKMKILELPFAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678626,1796133,MASEKMKILELPFAS,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678627,1796133,MASEKMKILELPFAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678628,1796133,MASEKMKILELPFAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678629,1740920,EKMKILELPFASGTM,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678630,1740920,EKMKILELPFASGTM,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678631,1776076,KILELPFASGTMSML,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678632,1776076,KILELPFASGTMSML,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678633,181304,ELPFASGTMSMLVLL,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678634,181304,ELPFASGTMSMLVLL,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678635,1746205,FASGTMSMLVLLPDE,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678636,1746205,FASGTMSMLVLLPDE,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678637,1758744,GTMSMLVLLPDEVSG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678638,1758744,GTMSMLVLLPDEVSG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678639,1825766,SMLVLLPDEVSGLEQ,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678640,1825766,SMLVLLPDEVSGLEQ,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678641,1841698,VLLPDEVSGLEQLES,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678642,1841698,VLLPDEVSGLEQLES,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678643,181415,PDEVSGLEQLESIIN,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678644,181415,PDEVSGLEQLESIIN,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678645,1844865,VSGLEQLESIINFEK,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678646,1844865,VSGLEQLESIINFEK,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678647,1785067,LEQLESIINFEKLTE,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678648,1785067,LEQLESIINFEKLTE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678649,1785067,LEQLESIINFEKLTE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678650,1785067,LEQLESIINFEKLTE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678651,1785067,LEQLESIINFEKLTE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678652,1785067,LEQLESIINFEKLTE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678653,1785163,LESIINFEKLTEWTS,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678654,1785163,LESIINFEKLTEWTS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678655,1766208,IINFEKLTEWTSSNV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678656,1766208,IINFEKLTEWTSSNV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678657,181315,FEKLTEWTSSNVMEE,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678658,181315,FEKLTEWTSSNVMEE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678659,1794149,LTEWTSSNVMEERKI,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678660,1794149,LTEWTSSNVMEERKI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678661,1847892,WTSSNVMEERKIKVY,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678662,1847892,WTSSNVMEERKIKVY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678663,1847892,WTSSNVMEERKIKVY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678664,1847892,WTSSNVMEERKIKVY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678665,1847892,WTSSNVMEERKIKVY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678666,1847892,WTSSNVMEERKIKVY,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678667,1826243,SNVMEERKIKVYFPR,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678668,1826243,SNVMEERKIKVYFPR,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678669,1796488,MEERKIKVYLPRMKM,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678670,1796488,MEERKIKVYLPRMKM,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678671,1816842,RKIKVYFPRMKMEEK,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678672,1816842,RKIKVYFPRMKMEEK,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678673,1782324,KVYLPRMKMEEKYNL,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678674,1782324,KVYLPRMKMEEKYNL,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678675,1791396,LPRMKMEEKYNLTSV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678676,1791396,LPRMKMEEKYNLTSV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678677,1791396,LPRMKMEEKYNLTSV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678678,1791396,LPRMKMEEKYNLTSV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678679,1791396,LPRMKMEEKYNLTSV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678680,1791396,LPRMKMEEKYNLTSV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678681,1797186,MKMEEKYNLTSVLMA,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678682,1797186,MKMEEKYNLTSVLMA,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678683,1738641,EEKYNLTSVLMAMGI,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678684,1738641,EEKYNLTSVLMAMGI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678685,181519,YNLTSVLMAMGITDV,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678686,181519,YNLTSVLMAMGITDV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678687,1836110,TSVLMAMGITDVFSS,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678688,1836110,TSVLMAMGITDVFSS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678689,1789299,LMAMGITDVFSSSAN,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678690,1789299,LMAMGITDVFSSSAN,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678691,1634927,MGITDVFSSSANLSG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678692,1634927,MGITDVFSSSANLSG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678693,1635667,TDVFSSSANLSGISS,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678694,1635667,TDVFSSSANLSGISS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678695,181320,FSSSANLSGISSAES,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678696,181320,FSSSANLSGISSAES,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678697,1635425,SANLSGISSAESLKI,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678698,1635425,SANLSGISSAESLKI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678699,1793328,LSGISSAESLKISQA,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678700,1793328,LSGISSAESLKISQA,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678701,1770934,ISSAESLKISQAVHA,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678702,1770934,ISSAESLKISQAVHA,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678703,249385,AESLKISQAVHAAHA,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678704,249385,AESLKISQAVHAAHA,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678705,181380,LKISQAVHAAHAEIN,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678706,181380,LKISQAVHAAHAEIN,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678707,181380,LKISQAVHAAHAEIN,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678708,181380,LKISQAVHAAHAEIN,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678709,181380,LKISQAVHAAHAEIN,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678710,181380,LKISQAVHAAHAEIN,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678711,1827555,SQAVHAAHAEINEAG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678712,1827555,SQAVHAAHAEINEAG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678713,1839958,VHAAHAEINEAGREV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678714,1839958,VHAAHAEINEAGREV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678715,1719742,AHAEINEAGREVVGS,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678716,1719742,AHAEINEAGREVVGS,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678717,1634115,EINEAGREVVGSAEA,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678718,1634115,EINEAGREVVGSAEA,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678719,181297,EAGREVVGSAEAGVD,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678720,181297,EAGREVVGSAEAGVD,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678721,181297,EAGREVVGSAEAGVD,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678722,181297,EAGREVVGSAEAGVD,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678723,181297,EAGREVVGSAEAGVD,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678724,181297,EAGREVVGSAEAGVD,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678725,1815498,REVVGSAEAGVDAAS,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678726,1815498,REVVGSAEAGVDAAS,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678727,1839861,VGSAEAGVDAASVSE,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678728,1839861,VGSAEAGVDAASVSE,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678729,1718132,AEAGVDAASVSEEFR,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678730,1718132,AEAGVDAASVSEEFR,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678731,1759046,GVDAASVSEEFRADH,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678732,1759046,GVDAASVSEEFRADH,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678733,181263,AASVSEEFRADHPFL,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678734,181263,AASVSEEFRADHPFL,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678735,1844786,VSEEFRADHPFLFCI,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678736,1844786,VSEEFRADHPFLFCI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678737,1739197,EFRADHPFLFCIKHI,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678738,1739197,EFRADHPFLFCIKHI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678739,1739197,EFRADHPFLFCIKHI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678740,1739197,EFRADHPFLFCIKHI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678741,1739197,EFRADHPFLFCIKHI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678742,1739197,EFRADHPFLFCIKHI,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgG4,UNIPROT:P01012
+17678743,1717741,ADHPFLFCIKHIATN,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678744,1717741,ADHPFLFCIKHIATN,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678745,1806614,PFLFCIKHIATNAVL,Linear peptide,34818647,Positive-Low,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678746,1806614,PFLFCIKHIATNAVL,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678747,181313,FCIKHIATNAVLFFG,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678748,181313,FCIKHIATNAVLFFG,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678749,1775635,KHIATNAVLFFGRCV,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678750,1775635,KHIATNAVLFFGRCV,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678751,1725319,ATNAVLFFGRCVSP,Linear peptide,34818647,Positive,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012
+17678752,1725319,ATNAVLFFGRCVSP,Linear peptide,34818647,Negative,qualitative binding|microarray,Homo sapiens (human),IgE,UNIPROT:P01012

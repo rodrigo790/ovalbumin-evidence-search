@@ -1,0 +1,10 @@
+{
+  "retrieved_utc": "2026-11-25",
+  "iedb": "https://query-api.iedb.org/bcell_search",
+  "pubmed_metadata_via": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+  "pmids": [
+    "34818647",
+    "17236828",
+    "14600204"
+  ]
+}

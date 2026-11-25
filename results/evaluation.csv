@@ -1,0 +1,8 @@
+question,assay,hits,retrieval_pass,citations_pass,pmid
+IEDB 17678705,17678705.0,1,True,True,
+What evidence exists for epitope 73158?,1412062.0,2,True,True,
+LKISQAVHAAHAEIN,17678705.0,6,True,True,
+Negative western blot ovalbumin,,8,True,True,17236828.0
+Baked egg children bead based epitope,,8,True,True,34818647.0
+epitope 999999999,,0,True,True,
+MAMAMAMAMAMA,,0,True,True,
