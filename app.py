@@ -12,6 +12,11 @@ def load_index():
     return EvidenceSearch()
 
 
+def use_example():
+    if st.session_state.example:
+        st.session_state.question = st.session_state.example
+
+
 search = load_index()
 st.title("Ovalbumin evidence search")
 st.caption(f"Gallus gallus · UniProt P01012 · {len(search.assays):,} curated IEDB assay records")
@@ -19,9 +24,10 @@ question = st.text_input(
     "Search by evidence ID, peptide or assay description",
     placeholder="Example: What evidence exists for epitope 181380?",
     max_chars=280,
+    key="question",
 )
-examples = st.pills("Examples", ["IEDB 17678705", "Negative western blot", "LKISQAVHAAHAEIN"])
-question = question or examples
+st.pills("Examples", ["IEDB 17678705", "Negative western blot", "LKISQAVHAAHAEIN"],
+         key="example", on_change=use_example)
 with st.sidebar:
     st.header("Summary")
     local = st.toggle("Use a local Ollama model")
